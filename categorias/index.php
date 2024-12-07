@@ -78,6 +78,10 @@ session_start(); // Iniciar la sesión
                 <i class="fas fa-cog"></i>
                 <span>AJUSTES</span>
             </a>
+            <a href="../videos de apoyo/index.php" class="flex items-center space-x-2 bg-pink-200 hover:bg-pink-300 text-black font-semibold py-2 px-4 rounded">
+            <i class="fab fa-youtube"></i>
+            <span>VIDEOS DE APOYO</span>
+            </a>
             <a href="../logout.php" class="flex items-center space-x-2 bg-pink-200 hover:bg-pink-300 text-black font-semibold py-2 px-4 rounded">
                 <span>CERRAR SESION</span>
             </a>
