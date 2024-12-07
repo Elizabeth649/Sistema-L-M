@@ -39,7 +39,7 @@
                 <i class="fas fa-truck"></i>
                 <span>PROVEEDORES</span>
             </a>
-            <a href="" class="flex items-center space-x-2 bg-pink-200 hover:bg-pink-300 text-black font-semibold py-2 px-4 rounded">
+            <a href="../ventas/index.php" class="flex items-center space-x-2 bg-pink-200 hover:bg-pink-300 text-black font-semibold py-2 px-4 rounded">
                 <i class="fas fa-shopping-cart"></i>
                 <span>VENTAS</span>
             </a>
